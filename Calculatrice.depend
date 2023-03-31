@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661119020 source:c:\users\hp\documents\c++\calculatrice\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
+1661684466 source:c:\users\hp\documents\programmation project\c++\calculatrice\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<cstdlib>
+
